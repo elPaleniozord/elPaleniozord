@@ -1,6 +1,6 @@
-### Hi there, I'm Jacek - aka [elPaleniozord][website] 👋
+### Hi there 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fjwalasik.netlify.app)](https://jwalasik.netlify.app/)
+<!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fjwalasik.netlify.app)](https://jwalasik.netlify.app/) -->
 
 ## I'm a self-taught Javascript Developer with passion for learning!!
 
@@ -13,7 +13,7 @@
 ### Connect with me:
 
 <!-- [<img align="left" alt="jwalasik.netlify.app" width="22px" src="https://jwalasik.netlify.app" />][website] -->
-[!Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:jacekwalasik89@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:jacekwalasik89@gmail.com)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jacek-walasik-4453a2141)
 
 <br />
