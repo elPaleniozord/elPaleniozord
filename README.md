@@ -4,7 +4,7 @@ I'm a self-taught Javascript Developer with passion for learning!!
 ### Get In Touch
 <a href="mailto:jacekwalasik89@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/jacek-walasik-4453a2141/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="http://www.jwalasik.netlify.app"><img src="https://img.shields.io/badge/portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a> 
+<a href="https://jwalasik.netlify.app/"><img src="https://img.shields.io/badge/portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"></a> 
 
 
 ### Tools I Use:
